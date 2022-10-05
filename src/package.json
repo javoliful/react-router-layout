@@ -1,0 +1,18 @@
+{
+  "name": "route-y-layout-base-route-id-typescript",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "components": "0.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-config": "5.1.1",
+    "react-router-dom": "5.3.4",
+    "react-router-hash-link": "1.2.2",
+    "react-scripts": "2.0.0",
+    "react-scroll": "1.7.16",
+    "use-http": "1.0.9"
+  },
+  "keywords": []
+}
